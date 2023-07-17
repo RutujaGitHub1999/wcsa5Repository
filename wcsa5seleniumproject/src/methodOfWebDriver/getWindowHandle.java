@@ -24,22 +24,7 @@ public class getWindowHandle {
 		driver.findElement(By.partialLinkText("open popup window")).click();
 		Thread.sleep(2000);
 		
-		Set<String> allhandels = driver.getWindowHandles();
-		
-	//	for(String 
-				
-				
-				
-				
-				
-				
-				
-				allhandels)
-		{
-			
-		}
-		
-		
+		Set<String> allhandels = driver.getWindowHandles();		
 
 	}
 

@@ -1,5 +1,5 @@
 package keyWordDrivenFramework;
 
-public class BestTest {
+public class BaseTest {
 
 }
